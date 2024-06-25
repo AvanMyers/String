@@ -1,0 +1,7 @@
+D:\ДЗ\String\Strinf\Strinf\bin\Debug\Strinf.exe.config
+D:\ДЗ\String\Strinf\Strinf\bin\Debug\Strinf.exe
+D:\ДЗ\String\Strinf\Strinf\bin\Debug\Strinf.pdb
+D:\ДЗ\String\Strinf\Strinf\obj\Debug\Strinf.csproj.AssemblyReference.cache
+D:\ДЗ\String\Strinf\Strinf\obj\Debug\Strinf.csproj.CoreCompileInputs.cache
+D:\ДЗ\String\Strinf\Strinf\obj\Debug\Strinf.exe
+D:\ДЗ\String\Strinf\Strinf\obj\Debug\Strinf.pdb
